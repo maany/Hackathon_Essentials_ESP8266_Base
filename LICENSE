@@ -1,6 +1,14 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+Copyright (c) 2018-present Mayank Sharma
+
+This software is only supposed to be used for
+1) Hackathon Essentials event organized at CERN Summer Students on 19 July 2018
+2) CERN Webfest Hackathon 2018
+For any other usage, please contact the developers and maintainers of the project.
+
+For the people participating in the above said events, the usage is permitted only during the events.
+
+If the above terms are met, the following additional terms apply:
+
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -186,7 +194,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2018-present Mayank Sharma
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
