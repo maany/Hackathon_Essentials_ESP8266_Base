@@ -52,9 +52,6 @@ void webSocketEvent(uint8_t num, WStype_t type, uint8_t * payload, size_t length
             if(device.equals("pankha")){
               switchRelay(FAN, fanTime);
               fanTime = millis();
-            }if(device.equals("Light")){
-              switchRelay(LIGHT, lightTime);
-              lightTime = millis();
             }
             // send message to client
             // webSocket.sendTXT(num, "message here");
